@@ -1,6 +1,6 @@
 import pygame,sys
 from pygame.locals import *
-import rando
+import random
 #colores
 sorpresa = (86,160,25)
 blanco = (255,255,255)
